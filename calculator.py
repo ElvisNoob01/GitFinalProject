@@ -11,6 +11,7 @@ def divide(a, b):
 print(multiply(4, 5))
 print(divide(20, 4))
 #practicing Git with VS Code Source Control
+# This comment was added after staging 
 
 def subtract(a, b):
     return a - b
